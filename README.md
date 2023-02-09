@@ -1,1 +1,2 @@
 # ChatGPT_API
+ChatGPTのAPIをpyhotnで触ってみる
