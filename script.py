@@ -2,7 +2,7 @@ import openai
         
 openai.api_key = "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"
 model_engine = "text-davinci-003"
-prompt = 'プログラミングが上達するコツを教えて'
+prompt = 'おすすめのプログラミング言語を教えて'
 
 completion = openai.Completion.create(
 engine=model_engine,
